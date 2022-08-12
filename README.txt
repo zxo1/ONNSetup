@@ -9,6 +9,7 @@ You will also need the IP Address of the android device. Again, google if you do
 
 Steps:  Run setup.bat, type in your IP address, press enter a few times, done.
 
+*** This WILL format the external drive 
 
 Questions and feedback go to zecho1@gmail.com
 
